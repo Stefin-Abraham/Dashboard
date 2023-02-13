@@ -70,7 +70,7 @@ export const Login: React.FC = () => {
             <GoogleButton />
           </Box>
         </Box>
-      </Container/>
+      </Container>
     </Box>
   );
 };
